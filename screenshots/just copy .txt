@@ -1,0 +1,10 @@
+{
+  "dbUrl": "ec2-18-236-110-120.us-west-2.compute.amazonaws.com",
+  "dbName": "cafe_db",
+  "dbUser": "root",
+  "dbPassword": "Re:Start!9"
+}
+
+
+ARN
+arn:aws:sns:us-west-2:126867325014:salesAnalysisReportTopic
